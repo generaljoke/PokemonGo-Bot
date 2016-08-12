@@ -1,3 +1,6 @@
+# Offical EMail
+  - This is not for support, you wont get any anwser. admin@ar1i.xyz
+
 # Donate
   - Every Donation will help the Project!
   - 
